@@ -1,1 +1,1 @@
-# parkinson
+# parkinson disease
